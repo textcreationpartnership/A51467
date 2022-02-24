@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Most learned and eloquent speech spoken and delivered in the House of Commons at Westminster by a most learned lawyer, the 23th [sic] June, 1647.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51467</idno>
+            <idno type="STC">Wing M2903A</idno>
+            <idno type="STC">ESTC R31047</idno>
+            <idno type="EEBO-CITATION">11769436</idno>
+            <idno type="OCLC">ocm 11769436</idno>
+            <idno type="VID">48818</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51467)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48818)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1489:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Most learned and eloquent speech spoken and delivered in the House of Commons at Westminster by a most learned lawyer, the 23th [sic] June, 1647.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:48818:1"/>
+            <pb n="1" facs="tcp:48818:1" rendition="simple:additions"/>
+            <head>A MOST Learned and Eloquent SPEECH, Spoken and Delivered in the HOUSE OF COMMONS, AT WESTMINSTER, By a moſt LEARNED LAWYER, <date>the 23<hi rend="sup">th</hi> 
+                  <hi>June,</hi> 1647.</date>
+            </head>
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>I Know no man weaker than my ſelf; who do acknowledge I am as unfitting to ſpeak in this Honourable Houſe, as <hi>Phormio</hi> the Philoſopher was, to prattle an Oration of War-Diſcipline to the great Souldier <hi>Hanibal,</hi> in the preſence of King <hi>M.</hi> 
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Yet out of the debility of my Knowledge, the inability of my Learning, the imbecility of my Judgment, the nobility of this Tranſcript-Senate, the mutability of their Cenſures, the inſtability of Opinions, the timoroſity of Offending, the volubility of Scandal, and the impotency of my Utterance, I have, maugre all theſe perilous Impediments, adventured to unboſom and disburden my mind before theſe unmatchable <hi>Patriots.</hi>
+            </p>
+            <p>
+               <hi>Mr. Speaker,</hi> I am not ignorant that you are appointed in the Parliament, to be Ear of the King, and Mouth of the Commons; And I deſire that your hearing may not take offence at my words, nor your tongue retort me a reproof inſtead of an applauſe. <hi>Mr. Speaker,</hi> In my Introduction to <hi>Grammar,</hi> vulgarly called, <hi>Accidence,</hi> I found Eight Parts of Speech, which is now an Introducti<g ref="char:EOLhyphen"/>on to me to divide my Speech into Eight Parts:</p>
+            <p>Viz.
+<list>
+                  <item>1. <hi>What we have done for Religion.</hi>
+                  </item>
+                  <item>2. <hi>What for the Church.</hi>
+                  </item>
+                  <item>3. <hi>What for the King.</hi>
+                  </item>
+                  <item>4. <hi>What for the Laws.</hi>
+                  </item>
+                  <item>5. <hi>What for the Kingdom.</hi>
+                  </item>
+                  <item>6. <hi>What for the Subject.</hi>
+                  </item>
+                  <item>7. <hi>What for Reformation.</hi>
+                  </item>
+                  <item>8. <hi>What we have done for our ſelves.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Of all theſe in order, as my infirm loquacity can demonſtrate. <hi>Mr. Speaker,</hi> I do not herein declare, either of neither, the Opinions of this Honourable Aſſembly or my own; but I will make plain unto you, how the Malignants eſteem us, and into what <hi>Odium</hi> we are fallen among For<g ref="char:EOLhyphen"/>reign Nations.</p>
+            <p>Firſt, For Religion, the Malignants ſay; We have thruſt out one and taken in two; that we have thrown down <hi>Proteſtantiſm,</hi> and erected <hi>Anabaptiſm,</hi> and <hi>Browniſm;</hi> and that in our Doctrine we abuſe the Renowned Memories of Queen <hi>Elizabeth,</hi> King <hi>James,</hi> and conſequently King <hi>Charles;</hi>
+               <pb n="2" facs="tcp:48818:2"/>that in their Religions they were Papiſtically minded, which their Lives and Acts, did and do manifeſt the contrary. And the Malignants ſay, it is no leſs than odious Treaſon, either of theſe deceaſed or ſurviving Princes, to traduce with ſuch falſe and ſcandalous aſperſions.</p>
+            <p>
+               <hi>Mr. Speaker,</hi> I would not be miſtaken, I ſay not my own words, but I ſay what the Malignants ſay of us, and my Lord <hi>Say;</hi> And they the Proteſtant and Proteſtant Church, was wont to be, and ought to be an inward robe and veſture for the Soul and Conſcience of all true Believers; And that the Biſhops, Ancient Fathers, and all Orthodox Divines have, and had a care to keep her neat and hanſom, in as ſpotleſs integrity, as a Militant Church in this imperfect Age could keep it.</p>
+            <p>But our Adverſaries, they ſay, That we have in our Religion an outward Garment, or Cloak of any colour, which none do wear amongſt us but Sectaries, Fools, Knaves, and Rebels; the ſaid Cloak, being with often turning worn as thread-bare as our Publick Faith is, full of wrinck<g ref="char:EOLhyphen"/>les, ſpots, and ſtains, neither bruſhed, ſpunged, nor made clean, with as many patches as Beggars Coats, and that our preaching or pratling, as they alſo ſay, it is kept by Coblers, Tinkers, Wea<g ref="char:EOLhyphen"/>vers, Wyer-Drawers, and Hoſtlers; ſo that all order and decent comlineſs is thruſt out of the Church; all laudable Ornaments (and indifferent beſeeming Ceremonies) are cried down, trod down and baniſhed, under the falſe and ſcandalous terms of Popery, and in the place thereof is moſt naſty, filthy, loathſom and ſlovenly beaſtlineſs or Doctrine, being vented in long and tedi<g ref="char:EOLhyphen"/>ous Sermons, to move and ſtir up the People to Rebellion and Trayterous Contributions; to ex<g ref="char:EOLhyphen"/>hort them to Murther, Rapine, Robbery, Diſloyalty, and all manner of miſchief that may be, to the confuſion of their Souls and Bodies: All theſe damnable Villanies, our Adverſaries ſay, are the accurſed Fruits which our new-moulded Linſy-Woolſey Religion hath produced; for they ſay, our Doctrine is neither derived from the Old or New Teſtament, that all the Fathers and Teſtant Doctors and Martyrs, never heard of it, that Chriſt and his Apoſtles never knew it. And for the Book of Common Prayer, they ſay in Verſe of that,</p>
+            <q>
+               <l>Ten thouſand ſuch as we can ne'r deviſe,</l>
+               <l>A Book ſo good, as that which we diſpiſe,</l>
+               <l>The Common-Prayer they mean, if we ſhould ſit,</l>
+               <l>Ten thouſand years, with all our brains and wit,</l>
+               <l>We ſhould prove Coxcombs all, and in the end,</l>
+               <l>New make ſo good, tis too good for us to mend.</l>
+            </q>
+            <p>And ſo much they ſay, we have done for Religion, it being the Firſt Part of my Eighth Part of Speech, as my weakneſs and your patience will permit; I will more briefly and compendiouſly pro<g ref="char:EOLhyphen"/>ceed to the ſecond.</p>
+            <p>Secondly, For the Churches, we are taxed by the Malignants with prophane and more than barbarous pollutions of the Churches, or Houſes dedicated to God's Service: they ſay, we never built any, but have taken too much accurſed pains to deface and pull down many, or perverting the right uſe of them, into Stables, Brothels, Receptacles for Strumpets, Luxurious Villanies, and infernal ſtinking ſmoke of <hi>Mundungus,</hi> as a Common Stable, deſtroying thoſe things which were with great maturity of Judgment, Learning, and Wiſdom, enacted by former Parliaments, moſt execrably ſpoyling all by the uſurping Power of this Parliament.</p>
+            <p>
+               <hi>Mr. Speaker,</hi> It is a rigorous medicine for the Tooth-ache, to knock out the brains of the Pa<g ref="char:EOLhyphen"/>tient, he is no wiſe man that takes violent Phyſick, and kills himſelf to purge a little flegm, nor is he a prudent Builder, that if his Houſe do want ſome ſlight repair, will pull it all down; a man that loves his Wife will not caſt her away for a few needleſs black patches that her face is disfigured withal. In like manner the Malignants conceive, if any things were amiſs, either in Ornament, Geſture, Ceremony, Lyturgy, or whatſoever might have been proved unfitting, ſcandalous, or juſtly offenſive, as is conceived, it might have been removed or reconciled in a more Chriſtian way, than by Ruinating, Demoliſhing, Tearing, and Violating, Defiling and Spoyling, all with<g ref="char:EOLhyphen"/>out regard of either, Humanity, Chriſtianity, Charity, Law, or order from God or man, as too many Pariſhes and other places in this Famous Kingdom, can moſt truly, wofully teſtifie. And theſe ſweet pieces of ſervices our Adverſaries ſay, we have done for the Churches.</p>
+            <p>Thirdly, Concerning our Loyalty and Obedience to the King; It is manifeſt, we have all taken the Oath of Allegiance to His Majeſty, and that we have alſo lately taken Oaths and Covenants to make War againſt Him; our Enemies would fain know, who had power of diſpence, to free us from theſe Oaths, and likewiſe by what authority? The latter Covenant and Oaths, were impo<g ref="char:EOLhyphen"/>ſed upon the conſciences of men; for my own part, if there were no wiſer men than my ſelf, this ambiguous <hi>Aenigma</hi> ſhould never have gone ſo far; but it is reported by them, that if we had kept our firſt Oaths religiouſly, and not taken the ſecond moſt perjuriouſly, and performed them ſo impiouſly, then we had never ſo rebelliouſly offended ſo Gracious a Majeſty.</p>
+            <p>
+               <hi>Mr. Speaker,</hi> Our Adverſaries do further alledge, that our Obedience to His Majeſty is appa<g ref="char:EOLhyphen"/>rently manifeſt many ſtrange ways: we have disburdened Him of His large Revenues, we have caſed Him of the charge of Royal Houſe-Keeping, we have cleared Him from repairing of it, or repairing to His Stately Pallaces, Magnificent Manſions, and Defenſive Caſtles and Garriſons, and we have put Him out of care of repairing his Armories, Arms, Ammunition and Artillery; we
+<pb n="3" facs="tcp:48818:2"/>have been at the charge of the keeping of His Children, and moſt truſty Servants from or for Him; we have taken order and given ordinances, that He ſhall not be troubled, either with much money or meat, and that His Queen and lawful Wife ſhall not ſo much as darken His doors, and we have ſtroven by open Rebellion to releaſe Him of troubleſom Life and Reign, by hunting Him like a Partridge over the Mountains, and by ſhooting Bullets at His Perſon for His Majeſtie's Preſervation, on purpoſe to make Him glorious in another World; we have alſo eaſed Him of a great number of His Friends, Subjects, and Servants, by either charitable famiſhing, brotherly baniſhing, liberal and free impriſoning, Parliamental Plundering, friendly throat-cutting, and un<g ref="char:EOLhyphen"/>lawful beheading and hanging, or utterly ruinating as many as we could lay hold of, that either loved, ſerved, or honoured Him.</p>
+            <p>All theſe heavy Burthens we have eaſed Him of, and over-loaded our ſelves with the uſurped ponderoſity of them; ſo our Adverſaries ſay, that the weight of them will ſhortly either break our backs, or ſink us for ever.</p>
+            <p>And they further ſay, that ſince the World's Creation, never ſo good a King was ſo bardly uſed, or ſo trayterouſly abuſed and dealt withal.</p>
+            <p>Fourthly, <hi>Mr. Speaker,</hi> It is queſtioned what we have done for the Law, there are ſome Malig<g ref="char:EOLhyphen"/>nants, that are not afraid to ſay, that we have transformed and metamorphoſed the Common-Law of the Land, into the Lands common calamity; that inſtead of the common benefit, which the Laws in community ſhould yield to all, we have now perverted the ſame, to the private pro<g ref="char:EOLhyphen"/>fit of our ſelves and ſome particular Perſons; The Civil War is turned to uncivil War, Blaſphe<g ref="char:EOLhyphen"/>mies, Atheiſm, Sacriledge, Obſcenity, Prophaneneſs, Inceſt, Adultery, Fornication, Leignany, Pol<g ref="char:EOLhyphen"/>ligany, Baſtard-bearing, Cuckold-making, and all ſorts of beaſtly baudry, is ſo far from being puniſhed, that it is greatly connived at, or totally tollerated; and that thoſe, who ſhould be pu<g ref="char:EOLhyphen"/>niſhers of theſe groſs and crying Crimes, as Judges, Officials, Doctors, Proctors, and Apparitors, theſe are ſcorned, reviled, libelled againſt, cryed down, and made to be the ſhooting ſtake and laughing-ſtock of every libidinous incontinent Whore and Whore-monger.</p>
+            <p>The Law of God, contained in the Decalogy or Ten Commandements, they ſay, we have caſt out of the Church, not ſo much as ſuffering it to be read; and the New Teſtament, which was the laſt that Chriſt commanded, <hi>That we ſhould love one another;</hi> we have turned the clean contra<g ref="char:EOLhyphen"/>ry way, to the ſpoyling and murdering of one another; and for the Law of Nature, it is moſt unnaturally changed, to a Brutiſh, Heatheniſh Inhumanity, Paricide, Intricide, Fratricide, and Ho<g ref="char:EOLhyphen"/>micide, and hath been, and is by us defended maintained, and rewarded; no Affinity, Conſangui<g ref="char:EOLhyphen"/>nity, Alliance, Friendſhip, or Fellowſhip, hath or can have any true Proteſtant or Loyal Subject, either of Life, Goods, Safety or Freedom: Theſe are the beſt Reports our Adverſaries the Ma<g ref="char:EOLhyphen"/>lignants do give us, to have done for the Laws.</p>
+            <p>Nay, they ſay further, we have infringed and violated the Law of Arms here, and the Law of Nations abroad; for whereas Meſſengers and Ambaſſadours, have always had, and ought to have free and ſafe paſſage, with fair and courteous accommodation and entertainment; but we, contra<g ref="char:EOLhyphen"/>ry to them, and repugnant to Chriſtianity and Chriſtians, have ſuffered Ambaſſadours to be Ri<g ref="char:EOLhyphen"/>fled, Robbed, and Ill-intreated, and we have cauſed His Majeſtie's Meſſengers to be hanged, whom he moſt graciouſly hath ſent to us with Conditions of Peace, by <hi>Vox Populi,</hi> or common Vote of the People, without we are pleaſed, to call Malignants Popiſh Enemies to the State, with other ſcandalous names, reproachful words and Epithites, which they utterly deny, and we know both in their words and practiſe: we are juſtly taxed to be the mean independent and peſtilent propogation of all miſ<g ref="char:EOLhyphen"/>chiefs that this afflicted miſerable Kingdom groans and bleeds under; for they ſay that the Old Statutes of <hi>Magna Charta</hi> are overthrown by us, under the colour of ſupporting them by our Votes and Ordinances, Precepts and Proclamations, Edicts, Mandates and Commands; we have counter<g ref="char:EOLhyphen"/>manded, abrogated, annihilated, aboliſhed, violated, and made void all the Laws of God and Na<g ref="char:EOLhyphen"/>ture, of Arms and Arts too, and inſtead of them we have unlawfully erected Marſhal Law, Club-Law, <hi>Strafford</hi>'s-Law, and ſuch Laws as make moſt for Treaſon, Rebellion, Murder, Sacriledge, Envy and Plunder; but as for the King, we have not allowed Him ſo much Law as a Huntſman allows a Hare; theſe are our Enemies words, and thus much ſay they we have done for the Laws.</p>
+            <p>Fifthly, The firſt Queſtion or <hi>Quere</hi> is, what we have done for the Kingdom.</p>
+            <p>It is ſpoken, we have done and undone the Kingdom; this Ancient Famous Kingdom, the Envy of the World for happineſs, this <hi>Eden</hi> of the <hi>
+                  <g ref="char:V">Ʋ</g>niverſe,</hi> this Terreſtrial Paradice, this abſtract of Heaven's bleſſing, and Earth's content, the Epitome of nature's glory, this exact extraction of Piety, Learning, and magnanimous Chivalry, this nurſery of Religion, Arms, Arts, Laudable Endeavours, this brood of men, this wonder of Nations, formerly renowned, feared, loved and honoured, as far as ever our Sun and Moon did ſhine, this <hi>England,</hi> which hath been a Kingdom, a Monarchy ma<g ref="char:EOLhyphen"/>ny hundred years under the Reigns of 168 Kings and Queens, this Kingdom that hath conquered Kingdoms, that hath made, <hi>India, Paleſtina, Cyprus,</hi> tributary tremblers, hath made <hi>France</hi> ſhake, <hi>Spain</hi> quake, relieved and defended <hi>Scotland</hi> from <hi>French</hi> Slavery, that ſaved and protected the <hi>Netherlands</hi> from <hi>Spaniſh</hi> Tyranny, Now we have made this Kingdom of <hi>England</hi> a moſt miſerable Slave to it ſelf, an univerſal <hi>Golgotha,</hi> a purple gore <hi>Ackeldema,</hi> a Bloody Field, a <hi>Gehenna,</hi> a Den of Devils, ot Infernal Furies, and finally an Earthly Hell, were it not for theſe differences, that here
+<pb n="4" facs="tcp:48818:3"/>the beſt men are puniſhed, and in Hell the worſt only are plagued; here no good man eſcapes torments nor any bad man is troubled, the Gracious King is abuſed, for being good and juſt, and his true and loyal Subjects and Servants maſſacred, and maligned for their fidelity, the Proteſtants are called Papiſts, becauſe they will not be Browniſts, Anabaptiſts and Rebels, and Adverſaries are ſo bold to ſay, that we have plotted and laboured long to turn this glorious Monarchy into a pelt<g ref="char:EOLhyphen"/>ing holy polly Independent Anarchy, and to make the Kingdom to be no Kingdom, ſo much they ſay we have done for the Kingdom.</p>
+            <p>Sixthly, <hi>Mr. Speaker,</hi> we are queſtioned what good we have done for the Benefit and Liberty of the Subject: Some of them ſay nothing at all, which they find by lamentable experience, that we have turned their Liberty into Bondage, their Freedom into Slavery, and their Happineſs into Unhappineſs and Miſery; nay, it is reported we have found no way to Hell for them, which we are perſwaded to be the way to Heaven, which is to Rebel or Perjure, to fight in Perſon againſt the King, and to be forſworn, to owe Him no Duty and Allegiance; tuſh, theſe are but trifles, and may be anſwered at any eaſie rate, a ſmall matter will clear the hearing; it's no more than ever<g ref="char:EOLhyphen"/>laſting damnation, from which Speech, <hi>Maſter Speaker,</hi> I am bold to make uſe of a Speech in the diſtaſtful Letany, <hi>Good Lord deliver us.</hi>
+            </p>
+            <p>
+               <hi>Maſter Speaker,</hi> the Malignants do compare the Commonwealth to an Old Kettle, with here and there a fault, a hole, a crack, or a flaw in it; and that we in imitation of our bleſſed Brethren of <hi>Banbury,</hi> were intruſted to mend the ſaid Kettle, but like deceitful heatings, Tinkers, we have inſtead of ſtopping one hole made three or fourſcore: For the People choſe us for to eaſe them of ſome idle and tollerable Grievances, which we have done ſo cunningly and ſuperficially, that all the Subjects cry out and complain, that the Medicine is forty times worſe than the Diſeaſe, and the Remedy an hundred times worſe than the Medicine, and ſo much is reported we have done for the Subject, which is either enough or too much.</p>
+            <p>Seventhly, <hi>Maſter Speaker,</hi> the ſeventh Malignants Queſtion or <hi>Quere</hi> is, what we have done for Reformation? what by our induſtrious care and long ſitting we have Reformed? how the Sermon and Word of God is by us religiouſly, ſincerely, zealouſly, frequently and orderly preach<g ref="char:EOLhyphen"/>ed and practiſed? what we have amended either in the Church or Kingdom? how either the King is by us honoured, or the Subject eaſed? or what we have done theſe four or five years? the Malignants would fain know with what faces we can look on the Free-holders and Corporations in every Shire, County, City, Town, and Burrough in this Kingdom, who cried us up with their voy<g ref="char:EOLhyphen"/>ces, and carried us up like Popes, on their ſhoulders with an Elle, to be Elected Knights and Bur<g ref="char:EOLhyphen"/>geſſes: which way, <hi>Mr. Speaker,</hi> can we anſwer them, for our many Breaches of that great Truſt which they intruſted us withal? (I tell you, <hi>Mr. Speaker,</hi> theſe are home Queſtions) and that they ſay plainly, that our Reformation is Non-confirmation, and by ſure Confirmation, true Defamati<g ref="char:EOLhyphen"/>on, and that we have by cunning Transformation turned all to Deformation, ſo that our Predeceſ<g ref="char:EOLhyphen"/>ſours and Anceſtours that are deceaſed this Life, to a better or worſe, ſhould or could they ariſe out of their Graves, and ſee the change, alteration and unmannerly manners, that hath over<g ref="char:EOLhyphen"/>ſpread this Church and Kingdom, they would think they were in <hi>Turkey, Barbaria, Cerilia, Tarta<g ref="char:EOLhyphen"/>ria,</hi> or ſome Land that is inhabited by Infidels, Pagans, or Devils; for <hi>England</hi> as it is, looks no more like <hi>England,</hi> as it was ſix years agone, than a Camel or a Cockle are like an Owl or a Red-herring.</p>
+            <p>Eighthly and laſtly, <hi>Mr. Speaker,</hi> the Malignants queſtion us, what we have done for our ſelves? It is true, Charity begins at home, and we ought to make much of and ſtrengthen our ſelves; but we have run as the Adverſaries ſay, to the hazarding of our Eſtates, to be juſtly for<g ref="char:EOLhyphen"/>feited for Rebellion againſt ſo juſt, merciful, and truly religious a King, our Lives are liable to the cenſure of ſuch Laws as former Parliaments have Enacted againſt Rebels and Traytorous Rebelli<g ref="char:EOLhyphen"/>on, and our ſouls are in danger of perdition, if ſubmiſſion, contrition, and ſatisfaction be not humbly, heartily, ſpeedily performed; for we and only we have altered this Kingdoms Felicity to confuſion and miſery; from a bleſt merry Comedy, to a doleful bloody Tragedy, which may fill a large Hiſtory of perpetual memory to the everlaſting oblivion, ſhame, and indignity of Us and our Poſterity: And thus, <hi>Mr. Speaker,</hi> with as much brevity as I could, I have run over my Eight Parts of Speech, whereby may be perceived how our Malignant Adverſaries do eſteem of Us, and our Actions: I could ſpeak more than I have ſaid, and I could ſay more than I have ſpoken, but having done I hold it manners and diſcretion to make an end.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:48818:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
